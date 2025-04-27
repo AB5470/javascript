@@ -1,6 +1,6 @@
- age = 18   //number
- fname = "Aayush"  //string
- course = null  //object
+ let age = 18   //number
+ let fname = "Aayush"  //string
+ let course = null  //object
  
 
 
